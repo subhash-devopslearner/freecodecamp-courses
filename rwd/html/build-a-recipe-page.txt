@@ -1,0 +1,39 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Delicious Poha</title>
+  </head>
+  <body>
+    <main>
+      <h1>Poha recipe</h1>
+      <p>Presenting the best indian Poha recepe</p>
+      <section>
+        <h2>Ingredients</h2>
+        <ul>
+          <li>Raw Poha</li>
+          <li>Green Chily</li>
+          <li>Garlic</li>
+          <li>Coriander</li>
+          <li>Oil</li>
+          <li>Salt</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Instructions</h2>
+        <ol>
+          <li>Add some water in raw poha for few minutes to make soft</li>
+          <li>On the low flame on gas, fry the mixture of green chily, garlic, coriander and your favourate spices for few minutes</li>
+          <li>Add the soften poha, with the prepaired mixture of spices and mix well</li>
+          <li>Cook for about 5 minutes and your delicios poha is ready to serve</li>
+        </ol>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="recepe">
+      </section>
+    </main>
+  </body>
+</html>
+
+** end of index.html **
+
